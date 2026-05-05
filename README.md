@@ -38,4 +38,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=saurabh0772&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saurabh0772&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
