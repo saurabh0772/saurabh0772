@@ -38,4 +38,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh0772&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=saurabh0772&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
