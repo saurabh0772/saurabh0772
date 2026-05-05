@@ -38,4 +38,9 @@
 ---
 
 ### 📊 GitHub Stats
+
+![Visitors](https://komarev.com/ghpvc/?username=saurabh0772&color=4f8ef7&style=flat)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=saurabh0772&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=saurabh0772&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
