@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 🔭 Building production-grade web apps with **React, Node.js, Express & MongoDB**
 - 🔐 Experienced with **Auth0, JWT**, REST API design & Postman testing
-- 🧠 Solved **800+ DSA problems** on LeetCode, Codeforces & CodeChef
+- 🧠 Solved **1000+ DSA problems** on LeetCode, Codeforces & CodeChef
 - 🏆 **1st Rank** in Campus Coding Contest | Codeforces Pupil (Max: 1244)
 - 📬 Reach me at **krsaurabh0772@gmail.com**
 
