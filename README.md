@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🔭 Building production-grade web apps with **React, Node.js, Express & MongoDB**
-- 🔐 Experienced with **Auth0, JWT**, REST API design & Postman testing
+- 🔐 Experienced with **JWT, REST APIs, RBAC, Socket.IO** & Postman testing
 - 🧠 Solved **1000+ DSA problems** on LeetCode, Codeforces & CodeChef
 - 🏆 **1st Rank** in Campus Coding Contest | Codeforces Pupil (Max: 1244)
 - 📬 Reach me at **krsaurabh0772@gmail.com**
@@ -22,7 +22,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -31,9 +33,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Secure Pass](https://github.com/saurabh0772/Secure-Pass-Web-App) | Password manager with Auth0 + JWT + 10 REST APIs | MERN, Auth0 |
-| [Job Portal](https://github.com/saurabh0772/Job-Portal) | Role-based job platform with 15+ endpoints | MERN |
-| [AI Text Summarizer](https://github.com/saurabh0772/AI-Text-Summarizer) | Gemini-powered summarizer with prompt engineering | Node.js, Gemini API |
+| [NextHire](https://github.com/saurabh0772/NextHire) | Full-stack job portal with role-based access for students, recruiters and placement teams | MERN, JWT, RBAC |
+| [Multi-Tenant Project Management SaaS](https://github.com/saurabh0772/Multi-Tenant-Project-Management-SaaS) | Multi-tenant project management platform with RBAC, Kanban boards, task management, realtime updates and Dockerized services | MERN, Socket.IO, Redis, Docker |
 
 ---
 
